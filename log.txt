@@ -1,0 +1,5 @@
+1. Git clone serve para clonar um ficheiro/repositório para o próprio computador
+
+2. Git add permite adicionar um ficheiro a um repositório no GitHub
+
+3. Git commit 
